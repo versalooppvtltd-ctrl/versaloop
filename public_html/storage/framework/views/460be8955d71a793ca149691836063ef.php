@@ -1,0 +1,1 @@
+<p>hello</p><?php /**PATH C:\workspace\versaloop\public_html\resources\views/about-us/intro.blade.php ENDPATH**/ ?>
