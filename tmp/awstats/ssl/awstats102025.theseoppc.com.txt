@@ -1,0 +1,715 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202510 will be lost/reset.
+# Last config file used to build this data file was /home/theseopp/tmp/awstats/ssl/awstats.theseoppc.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2085                
+POS_TIME 2768                
+POS_VISITOR 17420               
+POS_DAY 23067               
+POS_DOMAIN 3544                
+POS_LOGIN 3986                
+POS_ROBOT 4141                
+POS_WORMS 4722                
+POS_EMAILSENDER 4853                
+POS_EMAILRECEIVER 4996                
+POS_SESSION 23286               
+POS_FILESIZE 24394               
+POS_REQUESTTIME 24541               
+POS_SIDER 23476               
+POS_FILETYPES 5131                
+POS_DOWNLOADS 5357                
+POS_OS 5405                
+POS_BROWSER 5656                
+POS_SCREENSIZE 6564                
+POS_UNKNOWNREFERER 6638                
+POS_UNKNOWNREFERERBROWSER 7071                
+POS_ORIGIN 7375                
+POS_SEREFERRALS 7514                
+POS_PAGEREFS 7677                
+POS_SEARCHWORDS 7896                
+POS_KEYWORDS 8048                
+POS_MISC 2431                
+POS_ERRORS 8107                
+POS_CLUSTER 3842                
+POS_SIDER_404 8264                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20251101000016 105 24817 10971337546475
+FirstTime 20251026145108
+LastTime 20251031232115
+LastUpdate 20251101201222 105 0 104 0 0
+TotalVisits 145                 
+TotalUnique 136                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 143                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 18 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 22504 6 7 30549
+1 18 45 4535287 4 8 9490
+2 0 0 0 4 7 40093
+3 20 101 5961893 3 9 41220
+4 7 13 204116 3 10 8590
+5 7 10 435356 23 25 50396
+6 7 105 2549198 5 10 14356
+7 14 98 2861662 24 46 65386
+8 10 96 5029086 4 16 36011
+9 22 154 8600198 7 14 19343
+10 4 46 2500829 7 12 16887
+11 3 27 627661 11 57 2568748
+12 5 40 1711958 133 143 316354
+13 13 93 5053945 85 89 169527
+14 18 98 6912126 1 8 898
+15 16 52 1778379 3 16 11351
+16 26 62 144700 7 28 16374
+17 33 235 12646755 31 39 10719
+18 11 56 3104600 2 8 7163
+19 19 139 6763663 3 10 6084
+20 21 61 2750398 140 151 353860
+21 10 50 2618254 6 9 38908
+22 8 55 2840868 5 10 46498
+23 14 114 6068834 3 13 17350
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 185 1089 50654629
+in 42 219 10065854
+ca 21 207 10259595
+cn 18 26 3922108
+fr 16 142 7547527
+ru 6 6 67512
+bg 4 44 2518647
+rs 4 4 241420
+gb 2 2 20098
+de 2 2 22504
+eu 2 4 202017
+lt 2 2 152941
+se 2 3 24938
+ao 1 1 11252
+jp 1 1 11228
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+crawl 47 2533606 20251030110911 0
+checker 17 191284 20251029031134 0
+unknown 11 285 20251031191046 11
+bot[\s_+:,\.\;\/\\-] 11 284 20251031144239 11
+Googlebot/ 9 233 20251030200110 9
+Applebot/ 8 207 20251031013629 8
+bingbot/ 6 155 20251031233132 6
+360Spider 6 67512 20251030200437 0
+robot 6 154 20251031230459 6
+Go\-http\-client/ 5 25 20251031162330 1
+YandexBot/ 4 103 20251031131123 4
+PetalBot 2 52 20251031211731 2
+scrapy 1 11252 20251030080056 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 868 40341511 0 0
+css 47 6227608 0 0
+jpg 61 1510243 0 0
+Unknown 15 223187 0 0
+js 58 5952191 0 0
+svg 410 548683 0 0
+html 189 1908935 0 0
+woff2 104 29009912 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+Unknown 12 11
+win8.1 2 0
+win7 4 4
+android10 123 15
+macosx9 3 3
+linuxubuntu 4 4
+android12 143 8
+ios_iphone 386 42
+androidlollipop 3 3
+winxp 1 1
+linux 415 84
+win10 597 115
+macosx15 59 18
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+firefox134.0 4 4
+chrome139.0.0.0 11 6
+firefox139.0 4 2
+chrome119.0.0.0 133 25
+chrome91.0.4472.114 3 3
+chrome116.0.0.0 13 13
+chrome106.0.0.0 1 1
+chrome94.0.4606.61 11 11
+safari15.4 45 5
+iphone 47 8
+chrome132.0.0.0 159 15
+chrome117.0.0.0 10 10
+chrome137.0.0.0 2 2
+safari 130 11
+chrome140.0.7339.16 4 2
+chrome103.0.5060.66 46 7
+chrome83.0.4103.61 2 2
+chrome93.0.4577.63 1 1
+chrome113.0.0.0 47 6
+safari18.6 75 10
+chrome120.0.0.0 5 1
+chrome138.0.0.0 49 5
+msie6.1 1 1
+chrome120.0.6099.28 99 18
+chrome121.0.0.0 1 1
+safari14.0.3 45 4
+firefox109.0 14 2
+firefox38.0 2 0
+chrome141.0.0.0 370 51
+netscape5.0 9 9
+chrome117.0.5938.132 88 8
+firefox120.0 25 25
+safari10.0 45 5
+chrome79.0.3945.79 88 8
+chrome50.0.2661.102 2 2
+chrome33.0.1750.152 3 3
+chrome31.0.1650.16 1 1
+chrome105.0.0.0 2 1
+mozilla 5 5
+chrome135.0.0.0 1 1
+firefox83.0 3 3
+chrome114.0.0.0 143 8
+Unknown 3 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0 20251027223651
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20251031202131
+HubSpot_Image_Utils 20251030111147
+Mozilla/5.0_(compatible;_UGAResearchAgent/1.0;_Please_visit:_NISLabUGA.github.io) 20251028151104
+Faraday_v2.14.0 20251030220746
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20251031202131
+HubSpot_Image_Utils 20251030111147
+Faraday_v2.14.0 20251030220746
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 177 325
+From1 0 0
+From2 3 3
+From3 2 9
+From4 126 1415
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://srv218.advancedserverdns.com:2083 2 2
+https://mail.jpog.in 0 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+404 432 971950
+500 26 87
+206 3 11637
+401 1 53
+400 1 52
+403 21 26082
+301 97 77115
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 197
+/sitemap_index.xml 1 -
+/9LBgkTzq 3 -
+//.env.tmp 1 https://www.google.com/
+//lib/.env.old 1 https://www.google.com/
+/pricing/local-seo/on-page-seo 1 https://theseoppc.com/
+//storage/.env.save 1 https://www.google.com/
+/lander/sberchat5v4_tds_newcrm_028-vnutr/index.php 4 -
+/vNyFhhL5 4 -
+/Kd67Fq1x 3 -
+/wp-content/uploads/2021/10/cropped-logo-1-192x192.png 1 -
+//app/.env.save 1 https://www.google.com/
+/p3y69 4 -
+/lander/sberchat5v4_tds_newcrm_017-ec_register-_1732091122/index.php 4 -
+//application/.env.save 1 https://www.google.com/
+/about-us/intro 3 https://theseoppc.com/
+/kXMGtQpC 3 -
+//.env.old 1 https://www.google.com/
+/n5cw4Z3Y 4 -
+//admin/.env.bak 1 https://www.google.com/
+/BNp8hDTk 4 -
+//.env.development 1 https://www.google.com/
+//app/.env.bak 1 https://www.google.com/
+/wp-content/uploads/2021/10/download-5-150x150.jpg 1 http://jpog.in/product/gajar/
+/j26HRfdD 4 -
+/wp-content/uploads/2021/10/cropped-logo-1-32x32.png 1 -
+/wp-content/uploads/2021/10/100-v9-rosemary-original-imafkyu7xwkfgd9t-100x100.jpeg 1 -
+//modules/.env.bak 1 https://www.google.com/
+/product/fenugreek-methi/ 1 -
+//core/.env.save 1 https://www.google.com/
+//.env.staging 1 https://www.google.com/
+/wp-content/uploads/2021/10/images-20.jpg 1 http://jpog.in/product/hamamdasta-black-pepper-kali-mirch-coriander-seeds-dhania/
+/wp-content/uploads/2021/10/images-4-1-150x150.jpg 1 http://jpog.in/product/green-chick-peas-hara-choliya/
+//storage/.env.bak 1 https://www.google.com/
+/wp-content/uploads/2021/10/images-18.jpg 1 http://jpog.in/product/hamamdasta-black-pepper-kali-mirch-coriander-seeds-dhania/
+//themes/.env.save 1 https://www.google.com/
+/wp-content/uploads/2021/10/download-4-1-150x150.jpg 1 http://jpog.in/product/cucummber-kheera/
+/.well-known/hostinger-challenge/uFbpTOKZPR 1 -
+/wp-content/uploads/2021/10/download-8-1-150x150.jpg 1 http://jpog.in/product/green-chick-peas-hara-choliya/
+//system/.env.old 1 https://www.google.com/
+/sitemap.xml.gz 1 -
+/wp-content/uploads/2021/10/download-4-1.jpg 1 http://jpog.in/product/cucummber-kheera/
+/tests/tests/TestCase.php 1 -
+//.env.sample 1 https://www.google.com/
+/yZdx79 4 -
+//.env.production 1 https://www.google.com/
+/public/lander/testsberv4-copy--1 4 -
+/n6PdMqLz 4 -
+/wp-content/uploads/2021/10/download-5.jpg 1 http://jpog.in/product/gajar/
+//vendor/.env.save 1 https://www.google.com/
+//modules/.env.save 1 https://www.google.com/
+/public/category/fashion/clothes 1 https://jpog.in/public/category/fashion/clothes
+/YWy6BPtM 4 -
+/CMdTKBx3 4 -
+/public/sberbank-quiz-v2 4 -
+//app/.env.old 1 https://www.google.com/
+/xmlrpc.php 1 -
+/wp-content/uploads/2021/10/100-cabbage-plant-for-home-chalisa-original-imag5zjwc68h5kyt.jpeg 2 -
+/BSDLw5Mp 4 -
+/q1gpDhK4 3 -
+//lib/.env.save 1 https://www.google.com/
+/mQ2bDkV4 4 -
+/wp-content/uploads/2022/10/cropped-JP-WHEATGRASS-ORGANICS-2-scaled-1-180x180.jpg 1 -
+//.env.swp 1 https://www.google.com/
+//plugins/.env.old 1 https://www.google.com/
+/public/wordpress 3 https://theseoppc.com/wordpress/
+//core/.env.old 1 https://www.google.com/
+/5/130/narodanimat-1/index.html 6 -
+//lib/.env.bak 1 https://www.google.com/
+/sellers.json 3 -
+/wp-content/uploads/2021/10/download-4-150x150.jpg 1 http://jpog.in/product/gajar/
+//config/.env.bak 1 https://www.google.com/
+/wp-includes/js/jquery/jquery.js 2 http://theseoppc.com/wp-includes/js/jquery/jquery.js
+/media/system/js/core.js 2 http://theseoppc.com/media/system/js/core.js
+/5jshCV 4 -
+//.env.dist 1 https://www.google.com/
+/public/lander/sber-fix 4 -
+/prVdNCXD 4 -
+/pricing/local-seo/local-listings 1 https://theseoppc.com/
+/zxDLJZ 4 -
+//assets/.env.bak 1 https://www.google.com/
+//.env.save 1 https://www.google.com/
+/xv2qwZ3s 4 -
+//vendor/.env.old 1 https://www.google.com/
+/nfvX2mRq 4 -
+/wp-content/uploads/2021/10/fresh-coriander-leaves-500x500-1.jpg 1 http://jpog.in/product/hamamdasta-black-pepper-kali-mirch-coriander-seeds-dhania/
+/wp-content/uploads/2021/10/images-2-3.jpg 1 http://jpog.in/product/spring-onions-hara-pyaaz/
+/wp-content/uploads/2021/10/download-8-1.jpg 1 http://jpog.in/product/green-chick-peas-hara-choliya/
+//system/.env.save 1 https://www.google.com/
+//includes/.env.old 1 https://www.google.com/
+//themes/.env.old 1 https://www.google.com/
+/wp-content/uploads/2021/10/images-20-150x150.jpg 1 http://jpog.in/product/hamamdasta-black-pepper-kali-mirch-coriander-seeds-dhania/
+//plugins/.env.save 1 https://www.google.com/
+//application/.env.bak 1 https://www.google.com/
+/3ds1633693954432212 6 -
+/sFRWyHsz 4 -
+/3vt4yTCT 4 -
+//config/.env.save 1 https://www.google.com/
+/KLFzmbdm 4 -
+/wp-content/uploads/2021/10/images-2-3-150x150.jpg 1 http://jpog.in/product/spring-onions-hara-pyaaz/
+/wp-content/uploads/2021/10/download-5-1-150x150.jpg 1 http://jpog.in/product/spring-onions-hara-pyaaz/
+//.env~ 1 https://www.google.com/
+//includes/.env.save 1 https://www.google.com/
+/wp-sitemap.xml 1 -
+/lander/sberchat5v4_tds_newcrm_038-vnutr_1721815245/index.php 4 -
+/wp-content/uploads/2021/10/download-5-1.jpg 1 http://jpog.in/product/spring-onions-hara-pyaaz/
+/fpyB8SZ3 4 -
+/CtdJ76V 3 -
+/wp-content/uploads/2021/10/download-3.jpg 1 http://jpog.in/product/gajar/
+/sitemap.xml 1 -
+/262LBNFp 4 -
+/merchant/code 6 -
+/wp-admin/setup-config.php 14 -
+/wp-content/uploads/2021/10/10-s-mm65-sporos-original-imafuz7hsdggdtgw.jpeg 2 -
+//.env.example 1 https://www.google.com/
+/wp-content/uploads/2021/10/download-2-150x150.jpg 1 http://jpog.in/product/onion/
+/4gpzSvhY 3 -
+/sKmcMfjD 4 -
+/wordpress/wp-admin/setup-config.php 15 -
+/nqw80 3 -
+//plugins/.env.bak 1 https://www.google.com/
+//.env.prod 1 https://www.google.com/
+/SrBkPK64 4 -
+/wp-content/uploads/2021/10/images-3-2.jpg 1 http://jpog.in/product/spring-onions-hara-pyaaz/
+/gpLFR5sr 4 -
+/wp-content/uploads/2021/10/images-19.jpg 1 http://jpog.in/product/hamamdasta-black-pepper-kali-mirch-coriander-seeds-dhania/
+//core/.env.bak 1 https://www.google.com/
+//.env.local 1 https://www.google.com/
+/public/pricing/ecommerce-seo 1 https://theseoppc.com/services/digital-marketing/seo/on-page-seo
+//src/.env.old 1 https://www.google.com/
+//system/.env.bak 1 https://www.google.com/
+/dwztdbhG 4 -
+/lander/sberquiz-2223-3 4 -
+/sberbank-quiz-4 2 -
+/NWJs6k27 3 -
+//.env.backup 1 https://www.google.com/
+//application/.env.old 1 https://www.google.com/
+/9hs69 4 -
+/public/tink_chat 4 -
+/img/service/tsp-digital-mission-vision.jpg 2 https://theseoppc.com/about-us/mission-vision
+/83036323 4 -
+/public/lander/sber 4 -
+//api/.env.old 1 https://www.google.com/
+/wp-content/uploads/2021/10/download-3-1-150x150.jpg 1 http://jpog.in/product/cucummber-kheera/
+/sitemap.txt 1 -
+//assets/.env.save 1 https://www.google.com/
+/wp-content/uploads/2021/10/100-cabbage-plant-for-home-chalisa-original-imag5zjwc68h5kyt-100x100.jpeg 2 -
+/wp-content/uploads/2021/10/100-v9-rosemary-original-imafkyu7xwkfgd9t.jpeg 2 -
+/3ds.php 5 -
+/contact 1 -
+/wp-content/uploads/2021/10/download-3-1.jpg 1 http://jpog.in/product/cucummber-kheera/
+/28kxhS 3 -
+/zMmL28CN 3 -
+//.env.dev 1 https://www.google.com/
+/ads.txt 3 -
+/wp-content/uploads/2021/10/download-3-150x150.jpg 1 http://jpog.in/product/gajar/
+/phpinfo.php 1 http://103.250.186.101:80/phpinfo.php
+/wp-content/uploads/2021/10/download-2.jpg 1 http://jpog.in/product/onion/
+/wp-content/uploads/2021/10/images-4-1.jpg 1 http://jpog.in/product/green-chick-peas-hara-choliya/
+//storage/.env.old 1 https://www.google.com/
+/wp-content/uploads/2021/10/download-1-2.jpg 2 -
+/n4TWwtZ4 4 -
+//admin/.env.save 1 https://www.google.com/
+/cabinet 4 -
+/wp-content/uploads/2021/10/download-1-1.jpg 1 http://jpog.in/product/onion/
+//config/.env.old 1 https://www.google.com/
+/public/lander/-bull--sovkombank_quiz 4 -
+/wp-content/uploads/2021/10/images-3-2-150x150.jpg 1 http://jpog.in/product/spring-onions-hara-pyaaz/
+//src/.env.save 1 https://www.google.com/
+//api/.env.bak 1 https://www.google.com/
+/wp-content/uploads/2021/10/10-s-mm65-sporos-original-imafuz7hsdggdtgw-100x100.jpeg 2 -
+//admin/.env.old 1 https://www.google.com/
+/SyhZkyvD 4 -
+/9XgxmrM3 4 -
+//assets/.env.old 1 https://www.google.com/
+/5fH7sTTJ 4 -
+//modules/.env.old 1 https://www.google.com/
+//.env.bak 1 https://www.google.com/
+//vendor/.env.bak 1 https://www.google.com/
+/6bXX29bt 3 -
+//wp-content/plugins/fix/up.php 1 -
+/GJcjXsGY 3 -
+/wp-content/uploads/2021/10/cropped-logo-1-180x180.png 1 -
+//.env.test 1 https://www.google.com/
+/YRWnWHy7 4 -
+//api/.env.save 1 https://www.google.com/
+//.env.orig 1 https://www.google.com/
+/public/merchant/z/payment 6 -
+/public/sberchat008-prilca 4 -
+//src/.env.bak 1 https://www.google.com/
+/app-ads.txt 3 -
+/qJYNKtCd 4 -
+//includes/.env.bak 1 https://www.google.com/
+/wp-content/uploads/2021/10/download-4.jpg 1 http://jpog.in/product/gajar/
+/lander/sberchat5v4_tds_newcrm_017-ec_register-_1730370309/index.php 4 -
+/sbr 3 -
+/category/artical/quote 1 https://jpog.in/category/artical/quote
+//themes/.env.bak 1 https://www.google.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 143
+49.37.44.248 13 111 6156463 20251028162358
+142.188.140.168 12 118 5171712 20251028155949
+103.81.25.1 11 78 3769361 20251031094324
+35.171.165.30 11 52 3394124 20251030034736
+45.112.69.38 11 22 75658 20251027173648
+157.49.35.206 10 75 4819585 20251031092913
+34.248.137.227 9 27 27480 20251026163251
+16.145.77.224 9 91 5437644 20251029171154
+98.94.36.229 8 47 3655336 20251029141644
+62.210.90.190 8 92 5001690 20251028085104
+54.92.132.8 7 47 2522461 20251030073136
+54.167.243.205 7 46 3237168 20251029141637
+205.169.39.95 5 45 2522785 20251029035456
+34.118.18.251 5 45 2914091 20251029174116
+205.169.39.238 5 45 2504769 20251031212417
+209.145.112.197 4 44 2495923 20251029135054
+149.57.180.43 4 51 2795838 20251027235503
+149.57.180.117 4 51 2795860 20251027222655
+85.217.220.74 4 44 2518647 20251027195245
+180.153.236.249 4 6 477233 20251031015106
+62.210.90.175 4 46 2500829 20251029104806
+205.169.39.4 4 44 2513939 20251031202403
+170.106.180.184 4 44 2518647 20251028063946
+180.153.236.83 4 6 1200177 20251028013016
+180.153.236.69 4 6 1021693 20251031014839
+54.174.62.137 0 1 2983 
+149.57.180.87 1 1 1732 20251027155753
+205.169.39.13 1 1 11252 20251028054053
+103.196.9.41 1 1 8846 20251027174043
+44.250.148.140 1 20 624431 20251030014634
+54.174.62.148 0 1 1352 
+54.174.62.169 0 1 1465 
+149.22.93.204 1 1 11228 20251029032555
+93.158.90.65 1 1 11252 20251030161826
+54.174.62.178 1 1 0 20251030110902
+45.90.61.161 1 1 11252 20251029034459
+149.57.180.123 1 1 1732 20251026210251
+3.239.221.131 0 1 2453 
+45.90.62.8 1 1 11252 20251029122508
+149.57.180.170 1 1 11228 20251030205015
+23.27.145.242 1 1 11252 20251029135727
+23.27.145.232 1 1 11252 20251030012340
+44.249.119.220 1 7 6191 20251027043558
+18.142.128.26 1 1 1485 20251027114440
+54.174.62.141 0 1 2458 
+23.27.145.223 1 1 11228 20251027181149
+45.90.62.178 1 1 11252 20251029035210
+161.115.239.87 1 2 188331 20251029054557
+138.197.114.152 1 2 13710 20251029080232
+149.57.180.23 1 1 11228 20251028192820
+149.57.180.180 1 1 11252 20251028131820
+59.142.54.56 1 1 11228 20251028042036
+91.231.89.18 1 1 78279 20251027183800
+154.220.164.119 1 1 11252 20251030044001
+128.192.12.116 1 1 1732 20251026154611
+23.27.145.62 2 2 22480 20251029215138
+104.252.191.119 2 2 17692 20251027195500
+23.27.145.17 1 1 1732 20251026154220
+221.14.235.62 1 1 11252 20251028090350
+54.203.1.49 1 7 5353 20251027163610
+84.170.130.244 2 2 22504 20251031050651
+159.65.191.150 1 2 13710 20251031070714
+128.192.12.113 1 1 11252 20251028151104
+176.53.219.81 1 1 11252 20251029122243
+149.57.180.111 1 1 11252 20251030133950
+154.28.229.210 1 1 8868 20251027204517
+103.4.251.148 2 2 17692 20251027174052
+23.27.145.151 1 1 11228 20251028195531
+148.113.215.71 1 1 11252 20251030220746
+136.115.36.241 1 1 11252 20251029053028
+176.53.216.52 1 1 11252 20251030200145
+34.82.232.72 1 20 10625 20251027063742
+23.27.145.63 1 1 11228 20251030164930
+136.118.74.79 1 2 186816 20251030074155
+104.164.126.167 1 1 8846 20251027195451
+3.94.76.239 0 1 2453 
+104.252.191.96 2 2 17692 20251027204527
+154.28.229.63 1 1 1481 20251026153836
+49.37.47.8 1 2 8846 20251031185529
+34.87.56.179 1 1 11252 20251028211229
+83.126.62.250 1 2 188331 20251029054601
+149.57.180.184 1 1 11252 20251027221427
+52.78.164.9 1 1 8846 20251030135624
+164.90.235.119 1 2 13696 20251028191557
+149.57.180.51 1 1 1732 20251027144108
+91.231.89.33 1 1 78279 20251027182221
+89.104.101.204 1 1 11252 20251028194738
+23.27.145.234 1 1 11228 20251028150648
+107.172.195.59 2 2 17736 20251027204520
+89.104.101.12 1 1 11252 20251031054158
+34.142.147.176 1 1 11252 20251028044453
+84.55.46.85 2 2 152941 20251030040113
+104.164.126.243 1 1 8868 20251027205418
+104.164.126.114 2 2 17736 20251027205439
+39.146.10.97 1 1 11252 20251029033424
+23.27.145.213 1 1 11228 20251027202320
+209.91.176.69 4 44 2513939 20251029135053
+34.124.179.179 1 1 11252 20251028235643
+104.164.126.105 1 1 1481 20251026153836
+136.118.98.228 1 20 8875 20251027065138
+152.39.226.148 1 39 1623370 20251027195244
+23.27.145.8 1 1 11228 20251028161311
+45.146.230.175 1 1 11252 20251028171000
+23.27.145.141 1 1 11252 20251028003235
+205.169.39.21 4 44 2495923 20251029174534
+51.254.204.161 4 4 45008 20251027223651
+23.27.145.34 1 1 11228 20251031230253
+167.71.234.223 1 2 13686 20251030054914
+91.231.89.126 1 1 78021 20251027213215
+5.133.192.108 1 2 13686 20251031125602
+176.53.218.219 1 1 11252 20251030200639
+157.173.122.176 1 1 11252 20251028143206
+34.212.153.114 2 2 22504 20251029165926
+91.231.89.32 1 1 6841 20251026172642
+23.27.145.155 1 7 6191 20251026162121
+180.153.236.35 4 6 1200501 20251028013015
+149.57.180.40 1 1 11228 20251030153918
+23.27.145.42 1 1 1732 20251026145108
+104.164.126.179 1 1 1481 20251026160819
+138.197.41.166 1 2 13710 20251031150950
+103.4.251.151 2 2 17736 20251027195501
+178.62.40.49 1 2 13686 20251031084938
+35.197.78.227 1 20 10690 20251027071120
+104.252.191.240 1 1 8846 20251027204524
+35.247.96.238 1 21 11051 20251027063719
+128.192.12.124 1 1 11252 20251027200223
+128.192.12.122 1 1 11228 20251027200229
+155.2.191.178 1 1 1481 20251027132046
+128.192.12.112 1 1 11252 20251027174840
+136.118.63.243 1 20 615460 20251028115332
+45.90.62.197 1 1 11252 20251030043027
+104.252.110.35 4 45 2521100 20251027195218
+104.164.126.215 2 2 2962 20251026160831
+45.83.31.80 1 1 11252 20251028162939
+146.70.134.44 1 1 8846 20251028185559
+23.27.145.119 1 1 11252 20251029234710
+54.174.62.179 0 1 2458 
+34.83.28.86 1 20 10650 20251027071018
+23.27.145.123 1 1 11252 20251031232115
+157.245.101.50 1 2 13686 20251028074506
+198.235.24.214 1 1 78021 20251031202131
+176.53.218.185 1 1 11252 20251029184121
+104.164.173.28 1 1 8868 20251027195455
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20251026 20 44 54845 11
+20251027 83 547 20721011 44
+20251028 54 275 14289074 30
+20251029 67 474 28326396 25
+20251030 36 143 7037721 19
+20251031 48 269 15293223 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 3
+2mn-5mn 1
+30mn-1h 3
+0s-30s 133
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 188 1908266 144 117
+/build/assets/fa-brands-400-Cmgzmso_.woff2 30 3327960 0 0
+/build/assets/fa-solid-900-DjKv4PhZ.woff2 30 9309748 0 7
+/build/assets/fa-regular-400-DcyeaIpN.woff2 25 9490656 0 9
+/build/assets/fa-duotone-900-DDBVeZhv.woff2 10 4181680 0 4
+/build/assets/fa-light-300-BIIPDt7z.woff2 3 1288272 0 1
+/build/assets/fa-thin-100-COluDTpR.woff2 3 1397892 0 0
+/build/assets/fa-v4compatibility-DT4DjF5T.woff2 3 13704 0 0
+/services 2 15268 0 1
+/about-us/mission-vision 2 18760 0 0
+/cpanel 2 26575 0 0
+/services/web-development/custom-web-design 2 23470 0 1
+/services/web-development/landing-pages 1 12245 0 0
+/contact-us 1 74662 0 1
+/services/digital-marketing/seo/on-page-seo 1 11208 0 0
+/services/managed-services 1 11292 0 1
+/tests/ 1 669 1 1
+/about-us/values-approach 1 9631 0 1
+/testimonials 1 8667 0 0
+/services/digital-marketing/smo 1 11409 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+44-100 4
+500-1K 177
+5K+ 1124
+2K-5K 524
+1K-2K 311
+0-44 113
+100-500 244
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

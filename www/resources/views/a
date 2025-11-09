@@ -1,0 +1,15 @@
+@extends('layouts.base' , ['title' => '|| Our Service V2'])
+
+@section('body-attributes')
+class="body1"
+@endsection
+
+@section('header')
+    @include('layouts.partials.header.navbar7')
+    @include('layouts.partials.header.mobile-nav')
+@endsection
+
+@section('content')
+
+    @include('layouts.partials.footer')
+@endsection
